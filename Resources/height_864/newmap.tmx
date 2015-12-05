@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="16" height="9" tilewidth="96" tileheight="96" nextobjectid="52">
+ <tileset firstgid="1" name="tiles" tilewidth="96" tileheight="96">
+  <image source="tiles.png" width="768" height="576"/>
+  <tile id="16">
+   <properties>
+    <property name="canTouch" value="0"/>
+   </properties>
+  </tile>
+  <tile id="17">
+   <properties>
+    <property name="canTouch" value="0"/>
+   </properties>
+  </tile>
+  <tile id="20">
+   <properties>
+    <property name="canTouch" value="0"/>
+   </properties>
+  </tile>
+  <tile id="23">
+   <properties>
+    <property name="canTouch" value="1"/>
+   </properties>
+  </tile>
+  <tile id="24">
+   <properties>
+    <property name="canTouch" value="0"/>
+   </properties>
+  </tile>
+  <tile id="25">
+   <properties>
+    <property name="canTouch" value="0"/>
+   </properties>
+  </tile>
+  <tile id="28">
+   <properties>
+    <property name="canTouch" value="0"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="bg" width="16" height="9">
+  <data encoding="base64" compression="zlib">
+   eJyTYGBgkKATlsUiJooHU2KXKB470NUKArEQAf3Y2DAsCcRSFOjH5X5sbqZG2FATAwD1hg00
+  </data>
+ </layer>
+ <objectgroup name="obj">
+  <object id="27" name="0" x="47.7394" y="249.93"/>
+  <object id="28" name="1" x="143.218" y="241.505"/>
+  <object id="29" name="2" x="244.313" y="247.122"/>
+  <object id="30" name="3" x="342.6" y="247.122"/>
+  <object id="31" name="4" x="438.079" y="249.93"/>
+  <object id="32" name="5" x="536.366" y="252.738"/>
+  <object id="33" name="6" x="623.42" y="252.738"/>
+  <object id="34" name="7" x="626.229" y="342.6"/>
+  <object id="35" name="8" x="629.037" y="435.271"/>
+  <object id="36" name="9" x="631.845" y="536.366"/>
+  <object id="37" name="10" x="631.845" y="629.037"/>
+  <object id="38" name="11" x="721.707" y="629.037"/>
+  <object id="39" name="12" x="828.419" y="629.037"/>
+  <object id="40" name="13" x="909.857" y="634.653"/>
+  <object id="41" name="14" x="918.281" y="530.75"/>
+  <object id="42" name="15" x="921.09" y="435.271"/>
+  <object id="43" name="16" x="912.665" y="345.409"/>
+  <object id="44" name="17" x="1013.76" y="342.6"/>
+  <object id="45" name="18" x="1114.86" y="339.792"/>
+  <object id="46" name="19" x="1201.91" y="339.792"/>
+  <object id="47" name="20" x="1207.53" y="432.463"/>
+  <object id="48" name="21" x="1201.91" y="533.558"/>
+  <object id="49" name="22" x="1201.91" y="631.845"/>
+  <object id="50" name="23" x="1305.81" y="631.845"/>
+  <object id="51" name="24" x="1395.68" y="634.653"/>
+ </objectgroup>
+</map>

@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="16" height="9" tilewidth="96" tileheight="96" nextobjectid="74">
+ <tileset firstgid="1" name="tiles" tilewidth="96" tileheight="96">
+  <image source="tiles.png" width="768" height="576"/>
+  <tile id="0">
+   <properties>
+    <property name="canTouch" value="0"/>
+   </properties>
+  </tile>
+  <tile id="1">
+   <properties>
+    <property name="canTouch" value="0"/>
+   </properties>
+  </tile>
+  <tile id="2">
+   <properties>
+    <property name="canTouch" value="0"/>
+   </properties>
+  </tile>
+  <tile id="3">
+   <properties>
+    <property name="canTouch" value="0"/>
+   </properties>
+  </tile>
+  <tile id="4">
+   <properties>
+    <property name="canTouch" value="0"/>
+   </properties>
+  </tile>
+  <tile id="5">
+   <properties>
+    <property name="canTouch" value="0"/>
+   </properties>
+  </tile>
+  <tile id="6">
+   <properties>
+    <property name="canTouch" value="0"/>
+   </properties>
+  </tile>
+  <tile id="7">
+   <properties>
+    <property name="canTouch" value="0"/>
+   </properties>
+  </tile>
+  <tile id="8">
+   <properties>
+    <property name="canTouch" value="0"/>
+   </properties>
+  </tile>
+  <tile id="9">
+   <properties>
+    <property name="canTouch" value="0"/>
+   </properties>
+  </tile>
+  <tile id="10">
+   <properties>
+    <property name="canTouch" value="0"/>
+   </properties>
+  </tile>
+  <tile id="11">
+   <properties>
+    <property name="canTouch" value="0"/>
+   </properties>
+  </tile>
+  <tile id="12">
+   <properties>
+    <property name="canTouch" value="0"/>
+   </properties>
+  </tile>
+  <tile id="13">
+   <properties>
+    <property name="canTouch" value="0"/>
+   </properties>
+  </tile>
+  <tile id="14">
+   <properties>
+    <property name="canTouch" value="0"/>
+   </properties>
+  </tile>
+  <tile id="15">
+   <properties>
+    <property name="canTouch" value="0"/>
+   </properties>
+  </tile>
+  <tile id="16">
+   <properties>
+    <property name="canTouch" value="0"/>
+   </properties>
+  </tile>
+  <tile id="17">
+   <properties>
+    <property name="canTouch" value="0"/>
+   </properties>
+  </tile>
+  <tile id="18">
+   <properties>
+    <property name="canTouch" value="0"/>
+   </properties>
+  </tile>
+  <tile id="19">
+   <properties>
+    <property name="canTouch" value="0"/>
+   </properties>
+  </tile>
+  <tile id="20">
+   <properties>
+    <property name="canTouch" value="0"/>
+   </properties>
+  </tile>
+  <tile id="21">
+   <properties>
+    <property name="canTouch" value="0"/>
+   </properties>
+  </tile>
+  <tile id="22">
+   <properties>
+    <property name="canTouch" value="0"/>
+   </properties>
+  </tile>
+  <tile id="23">
+   <properties>
+    <property name="canTouch" value="1"/>
+   </properties>
+  </tile>
+  <tile id="24">
+   <properties>
+    <property name="canTouch" value="0"/>
+   </properties>
+  </tile>
+  <tile id="25">
+   <properties>
+    <property name="canTouch" value="0"/>
+   </properties>
+  </tile>
+  <tile id="26">
+   <properties>
+    <property name="canTouch" value="0"/>
+   </properties>
+  </tile>
+  <tile id="27">
+   <properties>
+    <property name="canTouch" value="0"/>
+   </properties>
+  </tile>
+  <tile id="28">
+   <properties>
+    <property name="canTouch" value="0"/>
+   </properties>
+  </tile>
+  <tile id="29">
+   <properties>
+    <property name="canTouch" value="0"/>
+   </properties>
+  </tile>
+  <tile id="30">
+   <properties>
+    <property name="canTouch" value="0"/>
+   </properties>
+  </tile>
+  <tile id="31">
+   <properties>
+    <property name="canTouch" value="0"/>
+   </properties>
+  </tile>
+  <tile id="32">
+   <properties>
+    <property name="canTouch" value="0"/>
+   </properties>
+  </tile>
+  <tile id="33">
+   <properties>
+    <property name="canTouch" value="0"/>
+   </properties>
+  </tile>
+  <tile id="34">
+   <properties>
+    <property name="canTouch" value="0"/>
+   </properties>
+  </tile>
+  <tile id="35">
+   <properties>
+    <property name="canTouch" value="0"/>
+   </properties>
+  </tile>
+  <tile id="36">
+   <properties>
+    <property name="canTouch" value="0"/>
+   </properties>
+  </tile>
+  <tile id="37">
+   <properties>
+    <property name="canTouch" value="0"/>
+   </properties>
+  </tile>
+  <tile id="38">
+   <properties>
+    <property name="canTouch" value="0"/>
+   </properties>
+  </tile>
+  <tile id="39">
+   <properties>
+    <property name="canTouch" value="0"/>
+   </properties>
+  </tile>
+  <tile id="40">
+   <properties>
+    <property name="canTouch" value="0"/>
+   </properties>
+  </tile>
+  <tile id="41">
+   <properties>
+    <property name="canTouch" value="0"/>
+   </properties>
+  </tile>
+  <tile id="42">
+   <properties>
+    <property name="canTouch" value="0"/>
+   </properties>
+  </tile>
+  <tile id="43">
+   <properties>
+    <property name="canTouch" value="0"/>
+   </properties>
+  </tile>
+  <tile id="44">
+   <properties>
+    <property name="canTouch" value="0"/>
+   </properties>
+  </tile>
+  <tile id="45">
+   <properties>
+    <property name="canTouch" value="0"/>
+   </properties>
+  </tile>
+  <tile id="46">
+   <properties>
+    <property name="canTouch" value="0"/>
+   </properties>
+  </tile>
+  <tile id="47">
+   <properties>
+    <property name="canTouch" value="0"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="bg" width="16" height="9">
+  <data encoding="base64" compression="zlib">
+   eJyTYGBgkBgEWJxEjE0/iJZGE5eH0oJALISmFpt+XG6RBGIpHPrVgFgdiDXQ5OXR1ElDMbp+PSDWB2IDEsKCUHjKUSFOiDEDAJP5Dew=
+  </data>
+ </layer>
+ <objectgroup name="obj">
+  <object id="37" name="0" x="240" y="626"/>
+  <object id="38" name="1" x="234" y="540"/>
+  <object id="39" name="2" x="240" y="438"/>
+  <object id="40" name="3" x="238" y="340"/>
+  <object id="41" name="4" x="238" y="242"/>
+  <object id="42" name="5" x="334" y="246"/>
+  <object id="43" name="6" x="434" y="244"/>
+  <object id="44" name="7" x="530" y="246"/>
+  <object id="45" name="8" x="626" y="242"/>
+  <object id="46" name="9" x="722" y="244"/>
+  <object id="47" name="10" x="814" y="244"/>
+  <object id="48" name="11" x="916" y="242"/>
+  <object id="49" name="12" x="1010" y="246"/>
+  <object id="50" name="13" x="1110" y="248"/>
+  <object id="51" name="14" x="1202" y="244"/>
+  <object id="52" name="15" x="1294" y="246"/>
+  <object id="53" name="16" x="1296" y="342"/>
+  <object id="54" name="17" x="1296" y="436"/>
+  <object id="55" name="18" x="1296" y="536"/>
+  <object id="56" name="19" x="1298" y="630"/>
+  <object id="57" name="20" x="1200" y="632"/>
+  <object id="58" name="21" x="1104" y="632"/>
+  <object id="59" name="22" x="1002" y="634"/>
+  <object id="60" name="23" x="914" y="632"/>
+  <object id="61" name="24" x="812" y="632"/>
+  <object id="62" name="25" x="722" y="626"/>
+  <object id="63" name="26" x="628" y="632"/>
+  <object id="64" name="27" x="530" y="628"/>
+  <object id="65" name="28" x="526" y="532"/>
+  <object id="66" name="29" x="528" y="438"/>
+  <object id="67" name="30" x="622" y="434"/>
+  <object id="68" name="31" x="720" y="436"/>
+  <object id="69" name="32" x="816" y="436"/>
+  <object id="70" name="33" x="910" y="434"/>
+  <object id="71" name="34" x="1022" y="438"/>
+ </objectgroup>
+</map>
